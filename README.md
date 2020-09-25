@@ -47,6 +47,7 @@ This goal for this app was to build something that allowed users to both find br
 ### _Resources Used:_
 
 * [Trello](https://trello.com/b/jYTzdxB0/project-3-breweries) for organization of productivity flow
+* [Pitch Deck](https://docs.google.com/presentation/d/1et5mbd7kqmcWo7-WX0qxZzxd4yUq21AQG1BvLBkTV7o/edit#slide=id.p) for anyone that wants to give us money
 * [Heroku](https://brewsky-jjc.herokuapp.com/) to create link to the app for deployment
 * [GitHub](https://github.com/WomackCodes/brewsky) for repositories and storage of data
 * [OpenBreweryDB](https://www.openbrewerydb.org/) API for 3rd party data on breweries
